@@ -1,0 +1,11 @@
+name             'chef-fuel'
+maintainer       '2k0ri'
+maintainer_email 'esc13245@gmail.com'
+license          'MIT'
+description      'Installs/Configures '
+long_description 'Installs/Configures '
+version          '0.1.0'
+
+depends          'yum-epel'
+depends          'yum-remi'
+depends          'yum-repoforge'
